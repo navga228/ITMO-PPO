@@ -1,3 +1,5 @@
+Notion labs: https://navga228.notion.site/feabf0a4674048d49a80c39b7a059d0c?pvs=4 
+
 # Tiny event sourcing library demo
 This project demonstrates how easily you can build your event-driven, event sourcing based application POC in 15 minutes
 using [Tiny Event Sourcing library](https://github.com/andrsuh/tiny-event-sourcing)
